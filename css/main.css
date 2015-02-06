@@ -7,12 +7,12 @@ body {
 }
 
 header {
-  background-color: yellow;
+  background-color: #ffe524;
   padding: 0.5em 0.5em 0.5em 0.5em;
   margin: 0;
   text-align: center;
   text-decoration: none;
-  color: pink;
+  color: #cc3865;
   font-family: 'Sigmar One', cursive;
   font-size: 1rem;
 }
@@ -22,7 +22,7 @@ nav li {
   margin: 0;
   padding: 0.5em 0.5em 0.5em 0.5em;
   border-radius: 10px;
-  background-color: limegreen;
+  background-color: #b2a215;
   display: inline-block;
   text-align: center;
   text-decoration: none;
@@ -34,7 +34,7 @@ a {
 }
 
 a:hover{
-  background-color: pink;
+  background-color: #cc3865;
   border-radius: 10px;
   padding: 0.5em 0em 0.5em 0em;
 }
@@ -52,7 +52,7 @@ em {
 }
 
 blockquote {
-  color: yellow;
+  color: #b2a215;
   font-weight: normal;
   font-style: italic;
   text-align: center;
@@ -62,7 +62,7 @@ blockquote {
 }
 
 .block {
-  color: yellow;
+  color: #b2a215;
   font-weight: normal;
   font-style: italic;
   text-align: center;
@@ -74,20 +74,20 @@ blockquote {
 h2 {
   text-align: left;
   text-decoration: none;
-  color: pink;
+  color: #cc3865;
   font-family: 'Sigmar One', cursive;
   font-size: 2rem;
-  border-top: 3px solid yellow;
-  padding:0.5em 0em 0em 0em;
+  border-top: 3px solid #ffe524;
+  padding: 1em 0em 0em 0em;
 }
 
 figure {
   text-align: center;
-  border: solid brown;
+  border: solid #b2a215;
   border-radius: 10px;
-  padding: 1em 1em 1em 1em;
+  padding: 0.5em 0.5em 0.5em 0.5em;
   margin: 0;
-  background-color: yellow;
+  background-color: #fffce0;
 }
 
 img {
@@ -106,7 +106,7 @@ figcaption {
 h3 {
   text-align: left;
   text-decoration: none;
-  color: pink;
+  color: #cc3865;
   font-family: 'Sigmar One', cursive;
   font-size: 1rem;
 }
@@ -132,7 +132,7 @@ dd {
 }
 
 .cite {
-  background-color: yellow;
+  background-color: #ffe524;
   color: #000;
   font-family: Arial, sans-serif;
   font-style: none;
@@ -141,7 +141,7 @@ dd {
 }
 
 .wiki {
-  color: pink;
+  color: #cc3865;
 }
 
 .wiki:hover {
