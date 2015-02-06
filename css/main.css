@@ -43,6 +43,7 @@ main {
   margin: 1em;
   font-size: 1rem;
   font-family: Arial, sans-serif;
+  line-height: 1.5rem;
 }
 
 em {
@@ -82,10 +83,11 @@ h2 {
 
 figure {
   text-align: center;
-  border: solid;
+  border: solid brown;
   border-radius: 10px;
   padding: 1em 1em 1em 1em;
   margin: 0;
+  background-color: yellow;
 }
 
 img {
@@ -140,4 +142,8 @@ dd {
 
 .wiki {
   color: pink;
+}
+
+.wiki:hover {
+  color: blue
 }
