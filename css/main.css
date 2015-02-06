@@ -124,10 +124,14 @@ dl {
   color: #000;
 }
 
-dd {
+dt {
   font-weight: bold;
   font-size: 1rem;
   text-align: left;
+  margin: 0;
+}
+
+dd {
   margin: 0;
 }
 
