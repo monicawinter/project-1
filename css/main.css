@@ -31,6 +31,7 @@ nav li {
 
 a {
   color: #fff;
+  text-decoration: none;
 }
 
 a:hover{
@@ -142,8 +143,9 @@ dd {
 
 .wiki {
   color: #cc3865;
+  text-decoration: underline;
 }
 
 .wiki:hover {
-  color: blue
+  color: blue;
 }
