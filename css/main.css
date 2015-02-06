@@ -49,7 +49,6 @@ main {
 
 em {
   font-weight: bold;
-  font-style: bold;
 }
 
 blockquote {
@@ -136,7 +135,6 @@ dd {
   background-color: #ffe524;
   color: #000;
   font-family: Arial, sans-serif;
-  font-style: none;
   padding: 1.5em 2em 1.5em 2em;
   text-align: center;
 }
